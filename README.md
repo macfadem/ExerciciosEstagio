@@ -38,10 +38,11 @@ def isFibonacci(n):
 ## Questão 5:
 
 #### Em python a função seria extremamente simples:
-    ```python
-    def invertString(str):
-        return str[::-1]
-    ```
+
+```python
+def invertString(str):
+    return str[::-1]
+```
 #### Em JavaScript:
 
 ```javascript
