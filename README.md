@@ -9,7 +9,7 @@ while (k < indice):
     soma = soma + k
     k = k + 1
 ```
-# A soma será 78
+### A soma será 78
 
 ## Questão 2
 
@@ -19,7 +19,7 @@ def isFibonacci(n):
     while a < n:
         a, b = b, a + b
     return a == n
-
+```
 ## Questão 3
 
 # a) 1, 3, 5, 7, 9 (Números ímpares)
@@ -41,7 +41,7 @@ def isFibonacci(n):
     ```python
     def invertString(str):
         return str[::-1]
-
+    ```
 # Em JavaScript:
 
 ```javascript
@@ -52,3 +52,4 @@ function invertString(str) {
     }
     return inverted;
 }
+```
