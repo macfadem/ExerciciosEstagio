@@ -8,7 +8,7 @@ k = 0
 while (k < indice):
     soma = soma + k
     k = k + 1
-
+```
 # A soma será 78
 
 ## Questão 2
